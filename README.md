@@ -1,12 +1,12 @@
 # final-term-deep-learning-52300090-52300100-52300128
-1. Introduction
+#1. Introduction
 
 This repository presents the final project for the course Deep Learning. The project consists of two main components:
 
 Task 1: Development of a Vietnamese Visual Question Answering (VQA) system.
 Task 2: Proposal and implementation of a deep learning-based solution for a selected problem.
 
-2. Task 1: Visual Question Answering (VQA)
+#2. Task 1: Visual Question Answering (VQA)
    
 2.1 Problem Description
 
@@ -37,7 +37,7 @@ VQA Accuracy
 BLEU, ROUGE-L, METEOR
 BERTScore
 
-3. Task 2: Galaxy Classification and AGN Detection
+#3. Task 2: Galaxy Classification and AGN Detection
 
 3.1 Problem Description
 
